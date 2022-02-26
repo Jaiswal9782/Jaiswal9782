@@ -1,5 +1,5 @@
 - 👋 Hi, I’m varun jaiswal
-- 👀 I’m interested in React native
+- 👀 I’m working in React native & react js
 - 🌱 I’m currently learning Flutter
 - 📫 yoc also find me on skype as varunjaiswal08@gmail.com
 
